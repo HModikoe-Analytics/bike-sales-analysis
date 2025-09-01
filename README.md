@@ -3,19 +3,13 @@
 This project analyzes a dataset of bike buyers to understand the key factors influencing 
 bike purchases. 
 
-It includes data cleaning, exploratory analysis, pivot tables, and dashboards to extract 
-business insights. 
+## Dataset Used 
+<a href= "https://github.com/HModikoe-Analytics/bike-sales-analysis/blob/main/Bike_Sales_%20Project/Bike_%20Sales_%20Project_Analyzed_%20by_%20Happy%20_Modikoe.xlsx ">dataset</a>
 
-Project Documentation 
+### Data Visualization (Dashboard Image)
+<a href= "https://github.com/HModikoe-Analytics/bike-sales-analysis/blob/main/Dashboard_Bike_sales_Analysis.png">Dashboard </a>
 
-• Document 1: Key Questions 
-Outlines the main business questions we wanted to answer with this dataset. 
-• Document 2: Data Cleaning Process 
-Explains how the raw dataset was cleaned, standardized, and transformed for 
-analysis. 
-• Document 3: Insights & Recommendations 
-Provides insights from the data and actionable recommendations for businesses 
-in the bike industry. 
+
 
 Key Questions Explored 
 
@@ -31,6 +25,7 @@ behavior?
 9. What is the relationship between commute distance and bike purchases? 
 10. Are there regional differences in bike buying behavior? 
 11. How does age (or age brackets) impact the likelihood of buying a bike?
+<a href= "https://github.com/HModikoe-Analytics/bike-sales-analysis/blob/main/Bike_Sales_%20Project/Bike_Sales_Project_KEY_Questions%20.pdf">Key questions<a/>
 
  Data Cleaning Summary 
  
@@ -40,6 +35,7 @@ behavior?
 • Verified numeric fields and handled missing values 
 • Standardized Yes/No fields 
 • Prepared dataset for pivot table analysis and dashboard visualization 
+<a href= "https://github.com/HModikoe-Analytics/bike-sales-analysis/blob/main/Bike_Sales_%20Project/Bike_Sales_Project_Data_Cleaning.pdf">Data Cleaning Process</a>
 
 Insights 
 
@@ -54,6 +50,7 @@ purchases.
 • Those with fewer cars tend to buy more bikes. 
 • Short-distance commuters (0-5 miles) are the most frequent bike buyers. 
 • Middle-aged individuals are the largest bike-buying group. 
+<a href=" https://github.com/HModikoe-Analytics/bike-sales-analysis/blob/main/Dashboard_Bike_sales_Analysis.png ">Dashboard </a>
 
 Business Recommendations 
 
